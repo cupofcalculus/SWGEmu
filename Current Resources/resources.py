@@ -475,7 +475,7 @@ def main():
 #    ¸.•´¸.•*´¨) ¸.•*¨)
 #    (¸.•´ (¸.•` ¤ Galaxy Harvester *´¨)
 
-    PATH = "C:\\Users\\NathanLHall\\Downloads\\"
+    PATH = "D:\\Downloads\\"
     filename = "current14.csv"
     contents = []
     resources = []
@@ -490,7 +490,7 @@ def main():
 #    ¸.•´¸.•*´¨) ¸.•*¨)
 #    (¸.•´ (¸.•` ¤ SWGCraft Project *´¨)
 
-    PATH = "C:\\Users\\NathanLHall\\Downloads\\"
+    PATH = "D:\\Downloads\\"
     filename = "currentresources_basilisk.csv"
     contents = []
     with open(PATH + filename) as file:
@@ -583,37 +583,3 @@ def main():
     return None
 
 main()
-
-# Sturdy Hands:
-#    Artisan 4xx3
-#    Architect
-#         - 368k low-grade ore (2k)
-#         - 184k gemstone (1k)
-#    Armorsmith
-#    Weaponsmith
-#    Crafting Mastery
-#    Heightened Senses - x4x3
-#
-# Loving Hands:
-#    Chef
-#    Tailor
-#    Crafting Mastery
-#    Heightened Senses - x4x4
-#
-# Malpractice' Suit
-#    Master Combat Medic
-#    Doctor xxx4
-#    Pistoleer 4x43
-#    --Further study of Force Sensitive skills to be swapped with some of the above
-#
-# Human 1:
-#    Artisan
-#    Crafting Mastery
-#    Heightened Senses - 4404
-#
-# Imp-Shop:
-#     Merchant
-
-# World Dimensions min = -7680, max = 7680
-# 7680 * 2 = 15,360
-# factor(15360) = 2**10 * 3 * 5
